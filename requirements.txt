@@ -1,0 +1,3 @@
+# HLS Live Stream Capture requirements
+ffmpeg-asyncio==0.1.3
+pathlib>=1.0.0

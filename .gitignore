@@ -1,0 +1,5 @@
+recordings/*
+!recordings/.gitkeep
+.venv
+.venv/*
+.DS_Store
